@@ -1,0 +1,1 @@
+New-SmbMapping -LocalPath 'h:' -RemotePath '\\192.168.100.1\win_tools' -UserName .\install -Password install
